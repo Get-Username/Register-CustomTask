@@ -6,8 +6,8 @@
 	 Last Updated by: 	TFreedland
 	-------------------------------------------------------------------------
 	 Version Number:	1.0.2
-	 File Name:			Register-CustomTask.ps1
-	 GUID:				11bcd8b0-2ce3-4a26-8bb5-58d899709da6
+	 File Name:		Register-CustomTask.ps1
+	 GUID:			11bcd8b0-2ce3-4a26-8bb5-58d899709da6
 	===========================================================================
 #>
 
