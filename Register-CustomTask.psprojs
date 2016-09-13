@@ -1,0 +1,12 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>11bcd8b0-2ce3-4a26-8bb5-58d899709da6</FileID>
+  <OpenFolders>
+    <Folder>en-US</Folder>
+  </OpenFolders>
+  <OpenFiles>
+    <File>Register-CustomTask.psd1</File>
+    <File>Register-CustomTask.psm1</File>
+    <File>en-US\Register-CustomTask.psm1-Help.xml</File>
+  </OpenFiles>
+</ProjectState>

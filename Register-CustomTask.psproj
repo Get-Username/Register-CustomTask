@@ -1,0 +1,14 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>11bcd8b0-2ce3-4a26-8bb5-58d899709da6</FileID>
+  <ProjectType>1</ProjectType>
+  <Folders>
+    <Folder>en-US</Folder>
+  </Folders>
+  <Files>
+    <File ReferenceName="" Build="2">Register-CustomTask.psd1</File>
+    <File ReferenceName="" Build="0">Register-CustomTask.psm1</File>
+    <File ReferenceName="Call-Register-CustomTask_psm1-Help_xml" Build="1">en-US\Register-CustomTask.psm1-Help.xml</File>
+  </Files>
+  <StartupScript>C:\Users\TFreedland\Dropbox\PowerShell_Studio\Default_Project_Directory\Register-CustomTask\Test-Module.ps1</StartupScript>
+</Project>
