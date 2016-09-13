@@ -12,7 +12,7 @@
 #>
 
 #.EXTERNALHELP Register-CustomTask.psm1-Help.xml
-function Register-CustomTask
+Function Register-CustomTask
 {
     [CmdletBinding()]
     [Alias('RTAS')]
